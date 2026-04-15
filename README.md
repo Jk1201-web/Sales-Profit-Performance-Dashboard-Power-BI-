@@ -70,6 +70,13 @@ Sales-Performance-Dashboard/
 
 └── README.md
 
+## Connect With Me
+ - [LinkedIn](www.linkedin.com/in/jijau-khandale)
+ - [GitHub](https://github.com/Jk1201-web)
+ - [Kaggle](https://www.kaggle.com/jijaumohankhandale)
+
+*If you found this project useful, consider giving it a star!*
+
 
 
 
